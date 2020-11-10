@@ -1,0 +1,13 @@
+sklearn
+shapely
+rasterio
+matplotlib
+earthpy
+geopandas
+numpy
+lithops
+pandas
+pickle-mixin
+joblib
+glob2
+os-win
