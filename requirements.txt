@@ -1,3 +1,4 @@
+gdal
 sklearn
 shapely
 rasterio
