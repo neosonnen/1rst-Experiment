@@ -1,4 +1,4 @@
-gdal
+osgeo
 sklearn
 shapely
 rasterio
